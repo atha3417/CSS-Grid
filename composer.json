@@ -1,0 +1,13 @@
+{
+    "name": "atha/css-grid",
+    "description": "Just CSS code",
+    "keywords": ["css-grid"],
+    "license": "None",
+    "authors": [
+        {
+            "name": "Atha Tsaqif",
+            "email": "atha.3417@gmail.com",
+            "homepage": "http://example.com/"
+        }
+    ]
+}
